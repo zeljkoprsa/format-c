@@ -14,3 +14,4 @@ Okosnica programa stranke su dolje navedene tri stavke. Njihovim uvođenjem otkl
 11. Ukidanje Županija - Podjela Hrvatske na regije
 12. Financiranje općina isključivo iz prireza
 13. Ukidanje državnih potpora poljoprivredi
+14. Ukidanje minimalne plaće
