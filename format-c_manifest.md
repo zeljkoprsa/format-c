@@ -10,3 +10,5 @@ Okosnica programa stranke su dolje navedene tri stavke. Njihovim uvođenjem otkl
 8. Ukidanje svih parafiskalnih nameta
 9. Ukidanje obaveznog članstva u komorama
 10. Uvođenje vaučera za zdravstvo i školstvo
+11. Ukidanje Županija - Podjela Hrvatske na regije
+12. Financiranje općina isključivo iz prireza
