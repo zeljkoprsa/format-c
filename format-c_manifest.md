@@ -7,7 +7,7 @@ Okosnica programa stranke su dolje navedene tri stavke. Njihovim uvođenjem otkl
 4. Ukidanje HRT pretplate
 5. Privatizacija HŽ-a i HEP-a
 6. Ukidanje potpora neprofitabilnim državnim trvtkama
-7. Legalizacija i regulacija opjnih sredstava
+7. Legalizacija i regulacija opojnih sredstava
 8. Ukidanje svih parafiskalnih nameta
 9. Ukidanje obaveznog članstva u komorama
 10. Uvođenje vaučera za zdravstvo i školstvo
